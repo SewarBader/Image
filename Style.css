@@ -7,30 +7,6 @@
     font-family: "Times New Roman";
 }
 
-//lara edit
-.button2 {
-    background-color: #030303;
-    color: #fff;
-    font-size: 10px;
-    padding: 10px 20px;
-    border: 1px solid transparent;
-    border-radius: 15px;
-    font-weight: 600;
-    letter-spacing: 0.5px;
-    text-transform: uppercase;
-    margin-top: 10px;
-    cursor: pointer;
-    display: inline-flex;
-    align-items: center; /* محاذاة الأيقونة والنص عموديًا */
-    justify-content: center; /* محاذاة الأيقونة والنص أفقيًا */
-}
-.button2 img { /* تنسيق الأيقونة داخل الزر */
-    margin-right: 8px; /* المسافة بين الأيقونة والنص */
-    width: 20px; /* تحديد عرض الأيقونة */
-    height: 20px; /* تحديد ارتفاع الأيقونة */
-}
-
-
 body{
     background-color: #c9d6ff;
     background: linear-gradient(to right, #ffffff, #ffffff);
